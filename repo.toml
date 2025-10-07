@@ -1,6 +1,6 @@
 [bnyfiles]
-name = "BNY Files"
+name = "bnyfiles
 version = "1.0"
-description = "A simple file management utility for BNY services."
-icon = "https://example.com/icons/bnyfiles.png"
+description = "bnyfiles copies files and folders with a simple, clean interface."
+icon = "https://iili.io/Khm4PIV.png"
 source = "https://github.com/JuanJuanCtrl/bnnn/releases/download/bnyfiles.v.1.0/bnyfiles.exe"
