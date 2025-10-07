@@ -1,0 +1,6 @@
+[bnyfiles]
+name = "BNY Files"
+version = "1.0"
+description = "A simple file management utility for BNY services."
+icon = "https://example.com/icons/bnyfiles.png"
+source = "https://example.com/downloads/bnyfiles-1.0.0.zip"
